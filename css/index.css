@@ -12,7 +12,7 @@ body {
 
 .heading h2 {
     font-size: 40px;
-    color: #ff4f81;
+    color: #91C8E4;
     font-weight: bold;
     letter-spacing: 0.5px;
 }
@@ -45,7 +45,7 @@ body {
 /* HEADER */
 
 .header__top {
-    background-color: #ff4f81;
+    background: radial-gradient(circle, #4786fe, #52c7e9, #4d73ff);
     font-size: 14px;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .header__right a:hover {
-    background-color: #ff4f81;
+    background-color: #91C8E4;
     border-color: white;
 }
 
@@ -89,7 +89,7 @@ body {
 
 .navInstruction .navbar-brand p:last-child {
     font-size: 11px;
-    color: #ff4f81;
+    color: #91C8E4;
     letter-spacing: 3px;
     font-weight: bold;
 }
@@ -102,7 +102,7 @@ body {
     content: '';
     width: 0;
     height: 2px;
-    background-color: #ff4f81;
+    background-color: #91C8E4;
     display: block;
     transition: all 0.5s;
 }
@@ -119,11 +119,11 @@ body {
 }
 
 #navbarInstruction .nav-item:hover .nav-link {
-    color: #ff4f81;
+    color: #91C8E4;
 }
 
 #navbarInstruction .nav-item.active .nav-link {
-    color: #ff4f81;
+    color: #91C8E4;
 }
 
 #navbarInstruction .nav-item.active::after {
@@ -143,7 +143,7 @@ body {
 #navbarInstruction .dropdown-item:focus,
 #navbarInstruction .dropdown-item:hover {
     background-color: transparent;
-    color: #ff4f81;
+    color: #91C8E4;
 }
 
 .navInstruction .navbar-toggler {
@@ -250,10 +250,6 @@ body {
 .team {
     background-color: #4e2a84;
     padding: 70px 0;
-}
-
-.team h2 {
-    color: white;
 }
 
 .team__content {
@@ -848,10 +844,6 @@ footer {
 .team {
     background-color: #4e2a84;
     padding: 70px 0;
-}
-
-.team h2 {
-    color: white;
 }
 
 .team__content {
