@@ -402,7 +402,7 @@ body {
 /* TEAM */
 
 .team {
-    background-image: url("../img/BR-TEAM.png");
+    background-image: url("../img/BR-TEAMW.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 70px 0;
@@ -660,7 +660,7 @@ body {
 .feedback {
     /* background-image: url(../img/banner3.jpg);
     background-position: center; */
-    background: url(../img/banner3.jpg) center;
+    background: url(../img/BR-FB.png) center;
     background-attachment: fixed;
     background-size: cover;
 }
